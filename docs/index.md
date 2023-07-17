@@ -17,7 +17,7 @@ filename: index.md
 **Room**: Pacific Hall [Room 204](https://map.uoregon.edu/e874ae0dd)
 **Zoom**: See Slack or Invite
 
-* July 17 - 10:00-12:00 [Slides - Coming Soon]
+* July 17 - 10:00-12:00 [\[Slides\]](https://github.com/UO-Data-Science/NetNeuro2023/raw/main/docs/slides/Good_Data_Practices.pptx)
 * July 24 - 10:00-12:00 [Slides - Coming Soon]
 * July 31 - 10:00-12:00 [Slides - Coming Soon]
 
