@@ -1,3 +1,8 @@
+---
+title: Programming Power Up 1
+layout: main
+filename: 01-PP_Containers.md
+---
 # Containers
 <img src=https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png width=100px>
 For scientists containers provide a way of bundling software together to help distribute more reproducible studies in particular it should contain.
