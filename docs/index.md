@@ -31,7 +31,7 @@ filename: index.md
 
 These short tutorials will be published Wednesday
 
-* July 19 [Coming Soon]
+* July 19 <a href={{ site.baseurl }}/01-PP_Containers.html | relative_url }}> NetNeuro DSS 23</a></h1>
 * July 19 [Coming Soon]
 * August 2 [Coming Soon]
 
