@@ -31,8 +31,8 @@ filename: index.md
 
 These short tutorials will be published Wednesday
 
-* July 19 [Coming Soon]
-* July 19 [Coming Soon]
+* July 19  [\[Containers\]](https://github.com/UO-Data-Science/netneuro-docker/tree/main)
+* July 26  [Coming Soon]
 * August 2 [Coming Soon]
 
 
